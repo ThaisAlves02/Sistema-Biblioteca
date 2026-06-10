@@ -35,4 +35,3 @@ while True:
             livros.append(livro)
             print("Livro cadastrado com sucesso!")
 
-            input("Pressione enter para continuar")
